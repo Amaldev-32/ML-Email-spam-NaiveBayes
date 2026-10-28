@@ -1,0 +1,67 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*$pyo
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.coverage.*
+.cache
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+
+# Environment variables
+.env
+.env.*
+
+# OS generated
+Thumbs.db
+desktop.ini
+
+# Data files (large dataset is downloaded, not committed)
+data/SMSSpamCollection
+data/spam.csv
+*.zip
+*.gz
+
+# Model artifacts (trained on-demand, not committed)
+models/*.joblib
+models/*.pkl
+models/*.pickle
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+test-results/
+htmlcov/
