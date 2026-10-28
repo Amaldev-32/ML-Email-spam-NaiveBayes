@@ -1,0 +1,35 @@
+Spam Email Example: 
+
+Subject: Action Required: Unusual login detected on your Account
+
+From: "Security Alert" support-amazon-security@secure-verify-updates.com To: customer@example.com
+
+Dear Valued Customer,
+
+We detected a new login to your account from an unrecognized device (Macintosh; Intel) in Moscow, Russia at 10:42 AM.
+If this was not you, your account may be at risk. Please verify your identity immediately to prevent permanent suspension.
+[Verify My Account] (This link looks official but points to a slightly different domain, e.g., amazon-secure-login.net)
+If you did not attempt to log in, please ignore this email.
+
+The Security Team
+
+
+
+Legit Email Example :
+
+Subject: Your weekly GitHub digest is ready
+
+From: "GitHub" noreply@github.com To: alex@example.com
+
+Hi alex,
+
+Here's what happened in your repositories this week:
+
+1 pull request merged in alex/portfolio
+3 stars on alex/dotfiles
+New issue opened by @jane-doe in alex/api-server
+You can catch up on everything here: View your dashboard
+
+You're receiving this because you enabled weekly digests. Change your notification settings anytime.
+
+GitHub, Inc. — 88 Colin P Kelly Jr Street, San Francisco, CA
